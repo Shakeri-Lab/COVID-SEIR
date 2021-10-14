@@ -8,6 +8,7 @@ We consider a stochastic wastewater-based epidemiological model with four compar
 
 <img src="https://github.com/Shakeri-Lab/COVID-SEIR/blob/main/figs/SEIR_schematic_col.PNG" width="500"/>
 
+---
 ### Model Specifications
 
 We define the **force of infection** as below:
@@ -31,6 +32,7 @@ Maximum Likelihood Estimation (MLE) parameters of the three models:
 
 <img src="https://github.com/Shakeri-Lab/COVID-SEIR/blob/main/figs/est-params.PNG" width="450"/>
 
+---
 ### Results
 
 #### Estimated Basic Reproduction Number R0
@@ -51,9 +53,10 @@ In addition to the three models we also fitted an Autoregressive Integrated Movi
 
 <img src="https://github.com/Shakeri-Lab/COVID-SEIR/blob/main/figs/comp-forecast-zoom.png" width="500"/>
 
+---
 ### Conclusion
 
 In this study, we implemented a SEIR model for three cases of using merely case count data, viral load data, and both. We allowed for stochasticity in the transmission rates and extra-demographic stochasticity accounting for the unforeseen events. We fitted our models using a simulation-based inference called Iterated Filtering. We compared the models from three different aspects, parameter estimation, simulation, and prediction. Our results suggest that the viral load data is an informative data source for monitoring the spread of COVID-19 cases on a community level. The viral load has enough information, which enables it to approximate the number of infected cases when employed with a proper epidemiological model. Additionally, viral load data is more consistent and less uncertain, making it a critical part of COVID-19 surveillance.
 
-
+---
 *For more detailed information of our modeling and references please refer to our paper HERE*
