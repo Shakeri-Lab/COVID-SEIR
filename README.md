@@ -1,2 +1,4 @@
-# COVID-SEIR
-## This repository is dedicated to a compartmental stochastic modeling of wastewater viral load for continuous surveillance of COVID-19
+# COVID-19 Wastewater Surveillance: An Epidemiological Model
+
+## A Simple SEIR
+
