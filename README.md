@@ -6,4 +6,4 @@ Using wastewater surveillance as a continuous pooled sampling technique has been
 
 We consider a stochastic wastewater-based epidemiological model with four compartments (hidden states) of susceptible (S), exposed (E), infectious (I), and recovered/removed (R) (Fig. \ref{fig:SEIR-scheme}).
 
-.. image:: figs/SEIR_stochastic_col.png
+.. image:: figs/SEIR_stochastic_col.PNG
