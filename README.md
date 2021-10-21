@@ -70,3 +70,20 @@ In this study, we implemented a SEIR model for three cases of using merely case 
 
 ---
 *For more detailed information of our modeling and references please refer to our paper*
+
+---
+Cite us:
+---
+```
+@article {Fazli2021.10.19.21265221,
+	author = {Fazli, Mehrdad and Sklar, Samuel and Porter, Michael D and French, Brent A and Shakeri, Heman},
+	title = {Wastewater-Based Epidemiological Modeling for Continuous Surveillance of COVID-19 Outbreak},
+	elocation-id = {2021.10.19.21265221},
+	year = {2021},
+	doi = {10.1101/2021.10.19.21265221},
+	publisher = {Cold Spring Harbor Laboratory Press},
+	URL = {https://www.medrxiv.org/content/early/2021/10/20/2021.10.19.21265221},
+	eprint = {https://www.medrxiv.org/content/early/2021/10/20/2021.10.19.21265221.full.pdf},
+	journal = {medRxiv}
+}
+```
