@@ -1,4 +1,6 @@
-[![Referenced paper](https://img.shields.io/badge/medRxiv-2021.10.19-blue)](https://www.medrxiv.org/content/10.1101/2021.10.19.21265221v1)
+[![medRxiv](https://img.shields.io/badge/medRxiv-2021.10.19-blue)](https://www.medrxiv.org/content/10.1101/2021.10.19.21265221v1) [![mendeley](https://img.shields.io/badge/Mendeley-Add%20to%20Library-critical.svg)](https://www.mendeley.com/import/?url=https://www.medrxiv.org/content/10.1101/2021.10.19.21265221v1)
+
+
 
 COVID-19 Wastewater Surveillance: An Epidemiological Model :mask:
 =============================================================
