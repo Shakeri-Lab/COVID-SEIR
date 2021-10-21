@@ -70,4 +70,4 @@ In this study, we implemented a SEIR model for three cases of using merely case 
 .. code::
 
 .. |medRxiv| image:: https://img.shields.io/badge/arXiv-2010.16052-red.svg
-   :target: https://arxiv.org/abs/2010.16052
+   :target: https://www.medrxiv.org/content/10.1101/2021.10.19.21265221v1
