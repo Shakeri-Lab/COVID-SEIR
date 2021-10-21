@@ -1,6 +1,4 @@
-|medRxiv|
-
-Referenced paper : `Wastewater-Based Epidemiological Modeling for Continuous Surveillance of COVID-19 Outbreak <https://www.medrxiv.org/content/10.1101/2021.10.19.21265221v1>`__
+[![Referenced paper](https://img.shields.io/badge/medRxiv-2021.10.19-blue)](https://www.medrxiv.org/content/10.1101/2021.10.19.21265221v1)
 
 COVID-19 Wastewater Surveillance: An Epidemiological Model :mask:
 =============================================================
@@ -12,6 +10,8 @@ Using wastewater surveillance as a continuous pooled sampling technique has been
 
 We consider a stochastic wastewater-based epidemiological model with four compartments (hidden states) of susceptible (S), exposed (E), infectious (I), and recovered/removed (R).
 
+
+.. image:: figs/SEIR_schematic_col.PNG:width: 100px
 <img src="https://github.com/Shakeri-Lab/COVID-SEIR/blob/main/figs/SEIR_schematic_col.PNG" width="500"/>
 
 --------------------
@@ -68,9 +68,4 @@ Conclusion
 In this study, we implemented a SEIR model for three cases of using merely case count data, viral load data, and both. We allowed for stochasticity in the transmission rates and extra-demographic stochasticity accounting for the unforeseen events. We fitted our models using a simulation-based inference called Iterated Filtering. We compared the models from three different aspects, parameter estimation, simulation, and prediction. Our results suggest that the viral load data is an informative data source for monitoring the spread of COVID-19 cases on a community level. The viral load has enough information, which enables it to approximate the number of infected cases when employed with a proper epidemiological model. Additionally, viral load data is more consistent and less uncertain, making it a critical part of COVID-19 surveillance.
 
 ---
-*For more detailed information of our modeling and references please refer to our paper HERE*
-
-.. code::
-
-.. |medRxiv| image:: https://img.shields.io/badge/medRxiv-2021.10.19-blue
-   :target: https://www.medrxiv.org/content/10.1101/2021.10.19.21265221v1
+*For more detailed information of our modeling and references please refer to our paper*
